@@ -94,6 +94,7 @@ pip install git+https://github.com/qiaochen/VeloAE
 ```
 
 ```bash
+conda activate velocity_explorer
 pip install velovi
 ```
 
