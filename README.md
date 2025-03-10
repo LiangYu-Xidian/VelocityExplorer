@@ -94,9 +94,7 @@ pip install git+https://github.com/qiaochen/VeloAE
 ```
 
 ```bash
-conda create -n cellDancer python=3.7.6
-conda activate cellDancer
-pip install celldancer
+pip install velovi
 ```
 
 ### Usage
